@@ -57,7 +57,6 @@ Use the IDE's plugin manager to install the latest version of the plugin.
 ## 🙈 Known Issue 🙉
 
 * Some emoji are not rendered like US flag 🇺🇸 (See https://youtrack.jetbrains.com/issue/IDEA-166522)
-* Comment in XML file does not work
 * JS/TS's Template Strings intend to not to work because IntelliJ does not know the cursor is located inside or `${}` or not
 
 
